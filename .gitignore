@@ -1,0 +1,6 @@
+.env
+.claude/
+__pycache__/
+data/
+results.xlsx
+*.pyc
