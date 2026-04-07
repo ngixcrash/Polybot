@@ -38,7 +38,7 @@ python backtest.py --hours 72 --output results.xlsx
 
 ## Proof of trades
 ![PXL_20260228_175859210_Original](https://github.com/user-attachments/assets/c2b70d70-d3fd-43a2-b208-786b674ec26d)
-
+Note: This proof of trade isn't a dry-run but a live run using real money on Polymarket.
 
 
 ## Trading Modes
