@@ -1,4 +1,4 @@
-![PXL_20260228_175859210_Original](https://github.com/user-attachments/assets/3d024de2-9948-406d-aaaf-6b5c5ec89883)![PXL_20260228_175859210_Original](https://github.com/user-attachments/assets/7c44ad7b-59d0-4be4-b4fc-a86cff059588)# Polymarket BTC 5-Minute Up/Down Trading Bot
+# Polymarket BTC 5-Minute Up/Down Trading Bot
 
 Automated trading bot for Polymarket's BTC 5-minute binary markets. Uses a hybrid maker + directional sniper strategy optimized for the February 2026 rule changes (no 500ms taker delay, dynamic taker fees).
 
